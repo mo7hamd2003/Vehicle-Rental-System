@@ -1,0 +1,22 @@
+# NetBeans
+nbproject/private/
+nbproject/build-impl.xml
+nbbuild/
+dist/
+build/
+*.class
+*.log
+.classpath
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
